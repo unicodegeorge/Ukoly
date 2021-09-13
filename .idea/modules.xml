@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankovniUcet/BankovniUcet/BankovniUcet.iml" filepath="$PROJECT_DIR$/BankovniUcet/BankovniUcet/BankovniUcet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankovniUcet/BankovniUcet1.iml" filepath="$PROJECT_DIR$/BankovniUcet/BankovniUcet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary/Binary.iml" filepath="$PROJECT_DIR$/Binary/Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cara/Cara.iml" filepath="$PROJECT_DIR$/Cara/Cara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ryba/Ryba.iml" filepath="$PROJECT_DIR$/Ryba/Ryba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stairs/Stairs.iml" filepath="$PROJECT_DIR$/Stairs/Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ukoly.iml" filepath="$PROJECT_DIR$/Ukoly.iml" />
+    </modules>
+  </component>
+</project>
